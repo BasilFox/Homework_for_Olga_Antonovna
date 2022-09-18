@@ -10,4 +10,4 @@ for x1 in range(2):
                                 f2 = x1 or x2 or x3 or not (x4) or not (x5) or not (x6) or not (x7) or x8
                                 f3 = not x1 and x2 and not x3 and x4 and x5 and not x6 and not x7 and x8
                                 f4 = x1 or not x2 or not x3 or not x4 or not x5 or not x6 or not x7 or not x8
-                                print(f2)
+                                print(f2,6)
