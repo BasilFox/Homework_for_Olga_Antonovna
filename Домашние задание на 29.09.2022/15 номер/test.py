@@ -1,1 +1,0 @@
-print(len(range(410,824)))
