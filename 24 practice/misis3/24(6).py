@@ -1,0 +1,5 @@
+f = open('24(6).txt').read()
+f = f.replace('D', ' ')
+f = f.replace('R', ' ')
+f = f.split()
+print(max(f, key=len))
